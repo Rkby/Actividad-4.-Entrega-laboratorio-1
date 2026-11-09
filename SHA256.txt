@@ -1,0 +1,3 @@
+SHA256  A4EF66FDFEE1D9BC50BBA66BC4AB5B7E1FC8432EE02FBBECDE23E4B3AEC569FD  postgresql-lab01.log
+
+Nota: hash calculado en PowerShell sobre el archivo postgresql-lab01.log copiado en el escritorio del equipo durante la práctica. Vuelve a calcularlo si cambias el archivo o preparas una copia redactada.
